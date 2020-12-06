@@ -1,0 +1,7 @@
+C:\Users\toni-PC\source\repos\Kartaska igra\Kartaska igra\bin\Debug\Kartaska igra.exe.config
+C:\Users\toni-PC\source\repos\Kartaska igra\Kartaska igra\bin\Debug\Kartaska igra.exe
+C:\Users\toni-PC\source\repos\Kartaska igra\Kartaska igra\bin\Debug\Kartaska igra.pdb
+C:\Users\toni-PC\source\repos\Kartaska igra\Kartaska igra\obj\Debug\Kartaska igra.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\Kartaska igra\Kartaska igra\obj\Debug\Kartaska igra.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\Kartaska igra\Kartaska igra\obj\Debug\Kartaska igra.exe
+C:\Users\toni-PC\source\repos\Kartaska igra\Kartaska igra\obj\Debug\Kartaska igra.pdb
